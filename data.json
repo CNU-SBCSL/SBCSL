@@ -82,6 +82,15 @@
       "year": "2025"
     },
     {
+      "featured": false,
+      "id": "pt501",
+      "inventor": "길배수, 박용순, 강용식, 윤현도, 김규용, 남정수",
+      "num": "10-1882896-0000",
+      "status": "registered",
+      "title": "Hydration Heat Reducer Improved Long-term Storage Property",
+      "year": "2019"
+    },
+    {
       "featured": true,
       "id": "pt507",
       "inventor": "남정수, 편수정, 김규용, 유하민, 이예찬, 최병철, 김문규",
@@ -137,15 +146,6 @@
     },
     {
       "featured": false,
-      "id": "pt501",
-      "inventor": "길배수, 박용순, 강용식, 윤현도, 김규용, 남정수",
-      "num": "10-1882896-0000",
-      "status": "registered",
-      "title": "Hydration Heat Reducer Improved Long-term Storage Property",
-      "year": "2019"
-    },
-    {
-      "featured": false,
       "id": "pt503",
       "inventor": "길배수, 박용순, 강용식, 윤현도, 김규용, 남정수",
       "num": "10-1882896-0000",
@@ -161,6 +161,15 @@
       "status": "registered",
       "title": "HYDRATION HEAT REDUCER WITH IMPROVED DURABILITY AND USABILITY",
       "year": "2021"
+    },
+    {
+      "featured": false,
+      "id": "pt501",
+      "inventor": "김재환, 김명기, 남정수, 김도수",
+      "num": "1026848410000",
+      "status": "registered",
+      "title": "Partial Application Type Emergency Repair Material For Extending The Life Of Damaged Asphalt Pavement",
+      "year": "2024"
     }
   ],
   "sbcsl-projects": [
